@@ -21,7 +21,7 @@ Build a complete RAG pipeline capable of:
 
 ```text
 .
-├── RAGDAY1.ipynb
+├── RAG-Fundamentals.ipynb
 ├── Semantic Search and chromeDB.ipynb
 ├── Chunking.ipynb
 ├── Embeddings_+_ChromaDB_+_Retrieval.ipynb
